@@ -1,5 +1,5 @@
-# Final-Project 
-Code Written Zoe Bell & Purva Shirolkar
+# Piano Graphics Program
+Code Written by Purva Shirolkar & Zoe Bell
 
 ## Summary
 A piano, C++, graphics program that uses an audio library from PortAudio to generate sound corresponding to keys of a single piano octave.
@@ -29,15 +29,3 @@ GLFW (OpenGL library)
   * * PortAudio Portable Audio Library.
   * * For more information see: http://www.portaudio.com/
   * * Copyright (c) 1999-2000 Ross Bencina and Phil Burk
-
-## Grading structure
-The project is out of 200 points. From where it is in its current state it is probably worth around 160 points. While the
-piano key sounds don't change pitch, they work correctly to correlate to each individual key and still play when the user presses
-the correct key on their keyboard. The piano graphics work correctly and part of the game logic we hoped to implement is also working. 
-
-| Points Possible | Description of requirement                                               |
-|-----------------|--------------------------------------------------------------------------|
-| 100 pts         | Learning and implementing of the audio library chosen IDE                |
-| 40 pts          | Integrating graphics (screens and piano)                                 |
-| 50 pts          | Game component: implementing the logic of the song practice mode         |
-| 10 pts          | Collaboration: all code committed to Github correctly, ReadMe filled out |
